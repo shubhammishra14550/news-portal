@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App tests should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="App"
+  >
+    <nav
+      class="navbar navbar-expand navbar-dark bg-dark"
+    >
+      <div
+        class="container"
+      >
+        <a
+          class="navbar-brand"
+          href="#bulletin"
+        >
+          News Express
+        </a>
+        <div
+          class="me-auto navbar-nav"
+        >
+          <a
+            class="nav-link"
+            data-rr-ui-event-key="#bulletin"
+            href="#bulletin"
+          >
+            Bulletin
+          </a>
+          <a
+            class="nav-link"
+            data-rr-ui-event-key="#addNews"
+            href="#addNews"
+          >
+            Add News
+          </a>
+          <a
+            class="nav-link"
+            data-rr-ui-event-key="#filterNews"
+            href="#filterNews"
+          >
+            Filter News
+          </a>
+        </div>
+      </div>
+    </nav>
+    <header
+      class="App-header"
+    >
+      <p>
+        Work in progress for 
+        <code>
+          News Bulletin ♥
+        </code>
+        .
+      </p>
+      <hr />
+      <hr />
+      <img
+        alt="logo"
+        class="App-logo"
+        src="test-file-stub"
+      />
+    </header>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,45 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation component should renders correctly 1`] = `
+<DocumentFragment>
+  <nav
+    class="navbar navbar-expand navbar-dark bg-dark"
+  >
+    <div
+      class="container"
+    >
+      <a
+        class="navbar-brand"
+        href="#bulletin"
+      >
+        News Express
+      </a>
+      <div
+        class="me-auto navbar-nav"
+      >
+        <a
+          class="nav-link"
+          data-rr-ui-event-key="#bulletin"
+          href="#bulletin"
+        >
+          Bulletin
+        </a>
+        <a
+          class="nav-link"
+          data-rr-ui-event-key="#addNews"
+          href="#addNews"
+        >
+          Add News
+        </a>
+        <a
+          class="nav-link"
+          data-rr-ui-event-key="#filterNews"
+          href="#filterNews"
+        >
+          Filter News
+        </a>
+      </div>
+    </div>
+  </nav>
+</DocumentFragment>
+`;
